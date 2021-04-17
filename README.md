@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently w
+- 🌱 I’m currently learning  ISP (Image signal processing)
+- 🤔 I’m looking for help with Effective ISP algorithm  
+- 📫 How to reach me: ...https://www.aomanhao.top/ 
+- ⚡ Fun fact: ...
+
+![](https://github-readme-stats.vercel.app/api?username=aomanhao)
+
 <!--
 **AomanHao/AomanHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
