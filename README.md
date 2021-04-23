@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently w
-- 🌱 I’m currently learning  ISP (Image signal processing)
-- 🤔 I’m looking for help with Effective ISP algorithm  
-- 📫 How to reach me: ...https://www.aomanhao.top/ 
+- 🔭 I’m currently working on ISP algorithm
+- 🤔 I’m looking for help with improve effective ISP algorithm(such as denoise)  
+- 📫 How to reach me -> https://www.aomanhao.top/ 
 - ⚡ Fun fact: ...
 
 ![](https://github-readme-stats.vercel.app/api?username=aomanhao)
